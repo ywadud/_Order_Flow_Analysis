@@ -7,6 +7,6 @@ The volumeAnalytics file is the code for the indicator. It takes in volume data 
 It is fairly resourse heavy.
 There is some commented code that should give a good view of high/low buy-sell ratio, but there is a bug making it crash. Commented out, the clusters show without issue.
 
-This could probably be much better using SQL databases and making a custom graph instead of an indicator, but the NinjaTrader 8 developer support isn't that great.
+This could probably be much better using SQL databases and making a custom graph instead of an indicator, but I'm not too well practiced with C# and the NinjaTrader 8 developer support isn't that great.
 
 Any suggestions would be appreciated.
